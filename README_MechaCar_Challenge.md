@@ -110,3 +110,25 @@ The probability value (p-value) being considered is .05.
 ## Study Design: MechaCar vs. Competition
 
 ### Describe a statistical study that quantifies how MechaCar performs against the competition using metrics of interest to the consumer (e.g. cost, fuel efficiency, horsepower, maintenance costs and safety ratings)
+
+### 1. Metrics Tested:  Cost, MPG, Horsepower, Safety Rating
+
+### 2. Hypothesis:
+
+Null Hypothesis (Ho): There is no statistical difference on the defined metrics above between the MechaCar and it's competition.
+
+Aternate Hypothesis (Ha): There is a statistical difference on the defined metrics above between the MechaCar and it's competition.
+
+The probability value (p-value) for this study is .05.
+
+### 3. Statistical test used:
+
+### t-test
+
+The t-test will be use to test the mean of the metrics selected.
+
+The data should be carefully selected to adhere to certain assumptions (e.g. luxury sedan type, US Market, Safety Institute data, etc.)
+
+If the p-value from the t-tests is less than .05 then we reject the Null hypothesis.
+
+<end>
