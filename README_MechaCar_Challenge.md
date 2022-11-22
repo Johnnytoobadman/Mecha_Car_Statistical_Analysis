@@ -131,4 +131,8 @@ The data should be carefully selected to adhere to certain assumptions (e.g. lux
 
 If the p-value from the t-tests is less than .05 then we reject the Null hypothesis.
 
+### 4. Data needed to run the t-test:
+
+Jeremy will need to identify the MechaCar competitors and confirm that they are of the vehicle type and meet the assumptions for the correct consumer market.  Then Jeremy will need to get the MSRP Cost of the MechaCar and it's competitors, the MPG data that has been confirmed by third party testing, horsepower data again confirmed by a third party and Safety ratings provided by a Nationally recognized Safety Institute.
+
 <end>
