@@ -39,7 +39,7 @@ The vehicle length and ground clearance have the largest impact on MPG. The sign
 
 ### b) Is the slope of the linear model considered to be zero? Why or why not?
 
-The slope of the linear model is not zero as there is a significant correlation between length, ground clearaance and MPG.
+The slope of the linear model is not zero as there is a significant correlation between length, ground clearance and MPG.
 
 ### c) Does this linear model predict MPG of MechaCar prototypes effectively?  Why or why not?
 
